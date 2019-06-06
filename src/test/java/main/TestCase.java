@@ -3,7 +3,6 @@ package main;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
 public class TestCase {
 	SampleProject sm;
 	@SuppressWarnings("static-access")
